@@ -4,6 +4,8 @@
 
 🧐 Currently I am learning some old stuff (C) and some new stuff (Solidity and React).
 
+📧 franz.stupar@gmail.com
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoStupar&theme=tokyonight)
