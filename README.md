@@ -2,6 +2,8 @@
 
 📧 franz.stupar@gmail.com
 
+Apart from 42 projects, I built [jobsfromlarry.com](https://www.jobsfromlarry.com/) and worked on [prenota.cc](https://prenota.cc/)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoStupar&theme=tokyonight)
 
 <!---
