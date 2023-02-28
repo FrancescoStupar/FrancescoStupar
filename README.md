@@ -1,4 +1,4 @@
-👋 Hi, I’m @FrancescoStupar, a 42 Lisboa student.
+👋 Hi, I’m @FrancescoStupar.
 
 📧 franz.stupar@gmail.com
 
