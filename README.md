@@ -1,6 +1,6 @@
 👋 Hi, I’m @FrancescoStupar.
 
-📧 franz.stupar@gmail.com
+franzstupar.com
 
 <!---
 FrancescoStupar/FrancescoStupar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
