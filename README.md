@@ -1,6 +1,6 @@
 👋 Hi, I’m @FrancescoStupar.
 
-[Visit my website](https://franzstupar.com)
+[Visit my website](https://franzstupar.com) or [what I'm working on lately](https://letterfy.co)
 
 
 <!---
