@@ -1,6 +1,6 @@
 👋 Hi, I’m @FrancescoStupar.
 
-[Visit my website](https://franzstupar.com) too check out some of my projects :)
+[My personal website](https://franzstupar.com) is better than my GitHub.
 
 
 <!---
