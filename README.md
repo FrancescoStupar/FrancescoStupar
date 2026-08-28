@@ -1,7 +1,8 @@
 👋 Hi, I’m @FrancescoStupar.
 
-Check [my personal website](https://franzstupar.com) to read about all my projects!
+Most of my production work lives in private repositories.
 
+So check out [my personal website](https://franzstupar.com) to learn more about my projects!
 
 <!---
 FrancescoStupar/FrancescoStupar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
